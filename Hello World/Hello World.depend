@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696260408 source:c:\users\user\documents\school\hello world\exe1.c
+	<stdio.h>
+
+1696258143 source:c:\users\user\documents\school\hello world\main.c
+	<stdio.h>
+
